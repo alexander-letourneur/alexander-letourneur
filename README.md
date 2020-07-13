@@ -10,4 +10,4 @@
   padding-top: 20px;
 }
 </style>")
-<img class="side" src="https://wallpaper-house.com/data/out/8/wallpaper2you_248920.gif" width="256" height="600" />
+<img class="side" src="https://i.imgur.com/R3QEedb.gif" width="256" height="600" />
